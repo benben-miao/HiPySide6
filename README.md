@@ -8,7 +8,7 @@
 
 ### 3. A simple window source code
 
-```{Python}
+```Python
 # coding=utf-8
 
 import sys
@@ -45,7 +45,7 @@ if __name__=="__main__":
 ```
 
 ### 4. Porting from PySide2 (Like PyQt5) to PySide6 (Like PyQt6)
-```{Python}
+```Python
 # coding=utf-8
 
 # Question: Stats people with salary < 20000 and people with salary > 20000?
